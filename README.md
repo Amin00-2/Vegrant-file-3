@@ -28,6 +28,7 @@ Now that your Vagrantfile is set up, you can start the virtual machine (VM).
 •	Step 1: Open the Vagrantfile and find the line that specifies the box (this is the virtual machine image). By default, it will be set to use hashicorp/bionic64. You can leave this as is for now.
 •	Step 2: Start the virtual machine using:
 vagrant up
+
 ![alt text](vagrant is up and running manually in vscode.png)
 
 ![alt text](vagrant SSH.png)
