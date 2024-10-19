@@ -29,17 +29,27 @@ Now that your Vagrantfile is set up, you can start the virtual machine (VM).
 •	Step 2: Start the virtual machine using:
 vagrant up
 
-![alt text](vagrant is up and running manually in vscode.png)
+![Screenshot of my project](C:\Users\HP\Documents\workspace\vagrant is up and running manually in vscode.png)
 
-![alt text](vagrant SSH.png)
+![Screenshot of my project](c:\Users\HP\Documents\workspace\vagrant SSH.png)
 
-![alt text](vegrant is installed.png)
+![Screenshot of my project](c:\Users\HP\Documents\workspace\Vagrant file .png)
 
-![alt text](vagrant up.jfif)
+![Screenshot of my project](c:\Users\HP\Documents\workspace\vagrant up.jfif)
 
-![alt text](Vagrant file .png)
+![Screenshot of my project](c:\Users\HP\Documents\workspace\vegrant is installed.png)
 
-![alt text](vv.jfif)
+![Screenshot of my project](c:\Users\HP\Documents\workspace\vv.jfif)
+
+
+
+
+
+
+
+
+
+
 
 
 
